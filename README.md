@@ -21,11 +21,11 @@ Gender Differences: Males and females show different average incomes and purchas
 
 ---
 🛠️ Skills Used
-Data Cleaning
-IF and VLOOKUP formulas (if used)
-Pivot Tables & Charts
-Dashboard Creation in Excel
-Basic Data Storytelling
+Data Cleaning....
+IF formulas...
+Pivot Tables & Charts...
+Dashboard Creation in Excel....
+Basic Data Storytelling.....
 
 ---
 📦 Tools
